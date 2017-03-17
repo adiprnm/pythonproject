@@ -1,8 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 from prettytable import PrettyTable
-import pandas as pd
-from pandas import Series, DataFrame
 
 url = 'http://www.unpad.ac.id/fakultas/'
 
