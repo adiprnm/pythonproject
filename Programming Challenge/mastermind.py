@@ -4,6 +4,7 @@
 | Programming Challenge: Mastermind |
 -------------------------------------
 
+Challenge source: http://usingpython.com/python-programming-challenges/
 Description:
 Mastermind is a command line-based game. It generates 4 numbers randomly.
 Player's mission is to guess what number that has been generated. The
